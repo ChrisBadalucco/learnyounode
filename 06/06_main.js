@@ -1,9 +1,9 @@
 var filtering = require('./filtering');
 
 var inputPath = process.argv[2],
-    inputExt = '.' + process.argv[3];
+    inputExt = process.argv[3];
 
-filtering.filterList(inputPath, inputExt, function(err, data) {
+filtering(inputPath, inputExt, function(err, data) {
     if (err) {
         console.err(err);
     } else {
