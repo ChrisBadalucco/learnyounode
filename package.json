@@ -1,0 +1,26 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "nodeschoo-io learnyounode exercises completed by Chris",
+  "main": "n/a",
+  "dependencies": {
+    "concat-stream": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisBadalucco/learnyounode.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Chris Badalucco",
+  "license": "n/a",
+  "bugs": {
+    "url": "https://github.com/ChrisBadalucco/learnyounode/issues"
+  },
+  "homepage": "https://github.com/ChrisBadalucco/learnyounode#readme"
+}
